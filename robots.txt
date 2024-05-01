@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /profile/
+Disallow: /private/
+Disallow: /rooms/
+Allow: /public/
+
+Sitemap: /sitemap.xml
